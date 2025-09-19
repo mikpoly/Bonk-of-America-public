@@ -1,0 +1,20 @@
+{
+  "name": "Bonk of America",
+  "symbol": "BOA",
+  "description": "The Bonk of America token on Solana.",
+  "image": "https://raw.githubusercontent.com/mikpoly/Bonk-of-America-public/main/boa.png",
+  "extensions": {
+    "website": "https://bonkofamerica.app"
+  },
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mikpoly/Bonk-of-America-public/main/boa.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
