@@ -33,6 +33,7 @@ Best experience: open Solana Seeker, then visit bonkofamerica.app.
 If your wallet isn’t detected, make sure it’s installed and open, then refresh the page.
 
 🚀 Getting Started
+<img width="2922" height="640" alt="image" src="https://github.com/user-attachments/assets/c9aa4a20-a623-43ea-afa6-f704a1732c32" />
 
 Requirements
 
