@@ -1,4 +1,5 @@
 Bonk of America – App
+<img width="512" height="527" alt="image" src="https://github.com/user-attachments/assets/3457425d-b618-48aa-8fe3-c1948f8e05d6" />
 
 https://www.bonkofamerica.app
 
