@@ -3,6 +3,8 @@ Bonk of America – App
 
 https://www.bonkofamerica.app
 
+https://x.com/bonk_of46299
+
 Status: Beta – Phase 1
 The app is in an initial test phase. Features may change quickly and some parts may be limited or unstable.
 
