@@ -43,7 +43,7 @@ A little SOL for network fees.
 
 Open the app
 
-Go to https://www.bonkofamerica.app
+Go to bonkofamerica.app
 
 Connect
 
