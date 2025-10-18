@@ -96,7 +96,7 @@ Pools — Deposit or Zap LP tokens (via Orca Whirlpool integration)
 
 Swap — Fast Jupiter swaps with priority fees and auto wrap/unwrap SOL
 
-🆕 StockX — Access the new Buy & Sell StockX Quick 🔥
+🆕 StockX — Access the new Buy & Sell StockX (nvidia,tesla,circle,apple...) 🔥
 
 Buy: choose token + amount → instant Jupiter quote → confirm buy
 
