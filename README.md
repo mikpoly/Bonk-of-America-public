@@ -14,12 +14,25 @@ The app is in an initial test phase. Features may change quickly and some parts 
 Bonk of America is a clean, fast web app to interact with the Solana ecosystem—view balances, sign, and perform essential actions without clutter.
 
 ⚡ Fast (Solana)
-
 📱 Web & Mobile
-
-🔐 Secure: your keys stay in your wallet
-
+🔐 Secure — your keys stay in your wallet
 🧭 Simple, focused UI
+
+🆕 New Features (Phase 1.5)
+
+🟢 StockX Buy & Sell — “Trade Bonk Like a Pro”
+
+A new feature allowing you to:
+
+Buy BONK tokens directly using supported Solana tokens (e.g. SOL, USDC)
+
+Sell BONK or other supported assets instantly back to liquidity pools
+
+Uses the same Jupiter aggregator and Orca Whirlpools logic for optimized pricing
+
+One-click “gasless-style” experience (optimized priority fees, confirmation in 1 TX)
+
+Accessible from the “StockX” tab in the navigation bar.
 
 🧩 Compatibility (Phase 1)
 
@@ -32,13 +45,12 @@ Desktop: works with browser extensions (partial support in Phase 1).
 
 Mobile (Android): via Chrome + wallet supporting MWA.
 
-⚠️ iOS: limited in Beta — Phase 1. Prefer desktop or Android with MWA.
+⚠️ iOS: limited in Beta — Phase 1. Prefer desktop or Android + MWA.
 
 If your wallet isn’t detected, make sure it’s installed and open, then refresh the page.
 
 🚀 Getting Started
 <img width="2922" height="640" alt="image" src="https://github.com/user-attachments/assets/c9aa4a20-a623-43ea-afa6-f704a1732c32" />
-
 Requirements
 
 A Solana wallet (ideally Solana Seeker on Android).
@@ -53,19 +65,18 @@ Click Connect Wallet → choose your wallet
 
 Android: uses MWA (handoff from Solana Seeker)
 
-Desktop: Phantom/Solflare (extensions)
+Desktop: Phantom / Solflare (extensions)
 
-iOS (Beta): try Safari/Chrome; some features may be limited
+iOS (Beta): try Safari / Chrome; some features may be limited
 
 📲 Optional: Install on Android (Chrome)
 
 This section is about the optional installable app (PWA). The website works without installation.
 
 The installable app is available only via Google Chrome on Android (including Solana Mobile / Seeker).
-
 It is not available on iOS Safari and not published in app stores (Play Store / App Store).
 
-How to install
+How to install:
 
 Open Google Chrome on your Android device
 
@@ -77,13 +88,21 @@ Confirm. The app icon will appear on your home screen and open in standalone mod
 
 🧭 Navigation
 
-Home: quick overview
+Home — Quick overview
 
-Balance & Activity: SOL/tokens + history
+Balance & Activity — SOL/tokens + history
 
-Actions: send/receive, signing, interactions
+Pools — Deposit or Zap LP tokens (via Orca Whirlpool integration)
 
-Settings: basic preferences, disconnect
+Swap — Fast Jupiter swaps with priority fees and auto wrap/unwrap SOL
+
+🆕 StockX — Access the new Buy & Sell dashboard for BONK and other tokens 🔥
+
+Buy: choose token + amount → instant Jupiter quote → confirm buy
+
+Sell: select token to liquidate → confirm swap back to SOL or USDC
+
+Settings — Basic preferences, disconnect
 
 🔐 Security & Privacy
 
